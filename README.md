@@ -1,6 +1,6 @@
-#Estudos 
+# Estudos 
 
-###PHP
+### PHP
 - [x] Basico
 - [x] Tipos
 - [x] Variaveis

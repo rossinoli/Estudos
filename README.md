@@ -5,7 +5,7 @@
 - [x] Tipos
 - [x] Variaveis
 - [x] Controle 01
-- [ ] Array
+- [x] Array
 - [ ] Controle 02
 - [ ] Funções
 - [ ] Orientalção a Objetos
